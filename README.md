@@ -11,3 +11,12 @@ Este é um aplicativo de caronas voltado para presídios, permitindo que proprie
 ## Diretório do Projeto
 
 Confira os arquivos no diretório para um melhor entendimento do projeto.
+
+## Participantes
+
+Sérgio de Souza Aguiar Júnior - 32220410
+Thiago Rocha - 32222617
+Thais Cristina - 322210135
+Caio Vieira – 32222235
+Bruno Henrique - 322129027
+Felipe Gabriel de Paula – 32227639
